@@ -1,0 +1,46 @@
+{
+  "cart": [
+    {
+      "image":"https://images.dailyobjects.com/marche/product-images/1809/surge-2-in-1-magnetic-charging-station-images/Surge-2-In-1-Magnetic-Charging-Station.png?tr=cm-pad_resize,v-2,w-351,h-433,dpr-1",
+      "title": "DailyObjects SURGE™ 2-In-1 Universal Magnetic Wireless Charging Station (18W)",
+      "price": 3999,
+      "description": "Modern, minimalist, and effortless! Such is the experience of DailyObjects SURGE™ 2-in-1 Universal Magnetic Wireless Charging Station. This device combines the power of dual wireless chargers and offers a hands-free experience. Equipped with magnetic capabilities, the charging station allows an adjustable mount to your phone in any orientation so you can easily access it. Whereas, the silicone base of the charger acts as a wireless pad for your AirPods 2nd and 3rd genertion, AirPods Pro or any other Qi enabled earbuds.",
+      "discounted_price": 7999
+    },
+    {
+      "image":"https://images.dailyobjects.com/marche/product-images/1809/surge-2-in-1-magnetic-charging-station-images/Surge-2-In-1-Magnetic-Charging-Station.png?tr=cm-pad_resize,v-2,w-351,h-433,dpr-1",
+      "title": "DailyObjects SURGE™ 2-In-1 Universal Magnetic Wireless Charging Station (18W)",
+      "price": 3999,
+      "description": "Modern, minimalist, and effortless! Such is the experience of DailyObjects SURGE™ 2-in-1 Universal Magnetic Wireless Charging Station. This device combines the power of dual wireless chargers and offers a hands-free experience. Equipped with magnetic capabilities, the charging station allows an adjustable mount to your phone in any orientation so you can easily access it. Whereas, the silicone base of the charger acts as a wireless pad for your AirPods 2nd and 3rd genertion, AirPods Pro or any other Qi enabled earbuds.",
+      "discounted_price": 7999
+    },
+    {
+      "image":"https://images.dailyobjects.com/marche/product-images/1809/surge-2-in-1-magnetic-charging-station-images/Surge-2-In-1-Magnetic-Charging-Station.png?tr=cm-pad_resize,v-2,w-351,h-433,dpr-1",
+      "title": "DailyObjects SURGE™ 2-In-1 Universal Magnetic Wireless Charging Station (18W)",
+      "price": 3999,
+      "description": "Modern, minimalist, and effortless! Such is the experience of DailyObjects SURGE™ 2-in-1 Universal Magnetic Wireless Charging Station. This device combines the power of dual wireless chargers and offers a hands-free experience. Equipped with magnetic capabilities, the charging station allows an adjustable mount to your phone in any orientation so you can easily access it. Whereas, the silicone base of the charger acts as a wireless pad for your AirPods 2nd and 3rd genertion, AirPods Pro or any other Qi enabled earbuds.",
+      "discounted_price": 7999
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+       "image":"https://images.dailyobjects.com/marche/product-images/1203/natural-white-clove-sunday-crossbody-images/Ivory-Clove-Sunday-Crossbody-2.jpg?tr=cm-pad_crop,v-2,w-352,h-434,dpr-1",
+       "name":"Ivory - Clove Sunday Crossbody",
+       "price":9999,
+       "offer":"*FREE WALLET / DUFFLE BAG"
+    },
+    {
+      "id": 2,
+       "image":"https://images.dailyobjects.com/marche/product-images/1203/natural-white-clove-sunday-crossbody-images/Ivory-Clove-Sunday-Crossbody-2.jpg?tr=cm-pad_crop,v-2,w-352,h-434,dpr-1",
+       "name":"Ivory - Clove Sunday Crossbody",
+       "price":9999,
+       "offer":"*FREE WALLET / DUFFLE BAG"
+    }
+  ]
+}
+
+
+  
+
+
